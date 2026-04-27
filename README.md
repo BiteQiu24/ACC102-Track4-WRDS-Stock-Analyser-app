@@ -52,10 +52,8 @@ The project uses daily stock data from the **WRDS CRSP** database.
 - Add annotation features so users can identify key changes in volatility, drawdown, and benchmark-relative performance.
 
 ## Quick Local Run
-After downloading and unzipping this folder into `/Users/parannouls/`, run:
+After downloading or cloning the repository, open a terminal in the repository folder and run:
 
 ```bash
-cd /Users/parannouls/parannouls_run_ready_package
 pip install -r requirements.txt
 streamlit run app.py
-```
