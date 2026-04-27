@@ -36,7 +36,7 @@ The project uses daily stock data from the **WRDS CRSP** database.
 
 ## 6. Product link / Demo
 - **GitHub repository link:** https://github.com/BiteQiu24/ACC102-Track4-WRDS-Stock-Analyser-app.git
-- **Interactive app link (if deployed):** optional
+- **Interactive app link (if deployed):** https://acc102-wrds-stock-analyser.streamlit.app
 
 ## 7. Limitations & next steps
 **Limitations**
