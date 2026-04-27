@@ -35,7 +35,7 @@ The project uses daily stock data from the **WRDS CRSP** database.
 3. Enter valid WRDS login details and select the stock tickers, benchmark ticker, date range, and evaluation settings.
 
 ## 6. Product link / Demo
-- **GitHub repository link:** to be added by the student
+- **GitHub repository link:** https://github.com/BiteQiu24/ACC102-Track4-WRDS-Stock-Analyser-app.git
 - **Interactive app link (if deployed):** optional
 
 ## 7. Limitations & next steps
